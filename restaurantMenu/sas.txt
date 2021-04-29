@@ -1,0 +1,4 @@
+Your order: 
+1 Coca cola  8.5 Shekels sum: 8.5
+
+Total price: 8.5

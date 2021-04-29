@@ -1,0 +1,24 @@
+Bread with garlic
+First
+15.0
+Mushrooms in tampura
+First
+23.5
+Salmon steak
+Main course
+86.0
+Awesome Burger
+Main course
+62.0
+Belgian Waffle
+Desert
+45.5
+Ice Cream
+Desert 
+14.0
+Coca cola
+Drink
+8.9
+Kampot
+Drink
+18.9

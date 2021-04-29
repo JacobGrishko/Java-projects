@@ -1,0 +1,5 @@
+Your order: 
+5 Shnitzel  24.0 Shekels sum: 120.0
+1 Coca cola  8.5 Shekels sum: 8.5
+
+Total price: 128.5

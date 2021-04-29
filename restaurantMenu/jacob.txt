@@ -1,0 +1,8 @@
+Your order: 
+5 Bread with garlic  15.0 Shekels sum: 75.0
+2 Salmon steak  86.0 Shekels sum: 172.0
+1 Belgian Waffle  45.5 Shekels sum: 45.5
+6 Ice Cream  14.0 Shekels sum: 84.0
+4 Coca cola  8.5 Shekels sum: 34.0
+
+Total price: 410.5

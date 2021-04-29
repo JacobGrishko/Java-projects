@@ -1,0 +1,6 @@
+Your order: 
+1 Shnitzel  24.0 Shekels sum: 24.0
+1 Awesome Burger  62.0 Shekels sum: 62.0
+6 Coca cola  8.5 Shekels sum: 51.0
+
+Total price: 137.0
